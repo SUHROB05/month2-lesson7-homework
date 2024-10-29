@@ -1,0 +1,29 @@
+[
+    {
+        "id": 2,
+        "username": "name2",
+        "password": "nmadir",
+        "fullname": "toliq ism10talik",
+        "age": 20,
+        "email": "test@tes.com",
+        "gender": "male"
+    },
+    {
+        "id": 3,
+        "username": "name3",
+        "password": "nmadir",
+        "fullname": "toliq ism10talik",
+        "age": 20,
+        "email": "test@tests.com",
+        "gender": "male"
+    },
+    {
+        "id": "30430a3e-4bd9-4664-88d0-93d522f1e85c",
+        "username": "ali",
+        "password": "nmadir",
+        "fullname": "toliq ism10talik",
+        "age": 20,
+        "email": "test2@test.com",
+        "gender": "male"
+    }
+]
